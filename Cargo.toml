@@ -1,0 +1,10 @@
+[package]
+name = "snake"
+version = "0.1.0"
+authors = ["Stijn Volckaert <stijnv@gmail.com>"]
+
+[dependencies.sdl]
+path = "../rust-sdl/"
+
+[dependencies]
+rand = "0.3"
